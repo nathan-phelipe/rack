@@ -1,5 +1,4 @@
-🐱‍👤 link para download das roms 🐱‍👤
+-ROMS
 https://l1nk.dev/BErCF
-
-🐱‍👤 link do emulador 🐱‍👤
+-EMULADOR
 https://l1nk.dev/qc81Q
